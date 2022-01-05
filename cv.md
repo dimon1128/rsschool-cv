@@ -9,7 +9,6 @@
 ##About Me
 ---
 I am always result-oriented, I learn quickly, I easily assimilate new information and I approach tasks responsibly. I want to gain knowledge and skills that are enough to work in the company.
-
 ##Skills
 ---
 HTML
